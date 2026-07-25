@@ -2,4 +2,4 @@
 rust-based procedural map generator
 ---
 ## Here's an example
-[[map3.png]]]
+![Example Map](https://raw.githubusercontent.com/JudahNyquist/MapGen/refs/heads/main/map3.png)
